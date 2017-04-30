@@ -1,0 +1,23 @@
+{
+  "name": "plain",
+  "version": "1.0.0",
+  "description": "basic templete for dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.2.2",
+    "css-loader": "^0.27.3",
+    "node-sass": "^4.5.1",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.15.0",
+    "webpack": "^2.3.0",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
